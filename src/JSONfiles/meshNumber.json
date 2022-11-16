@@ -1,0 +1,186 @@
+[
+  {
+    "meshNumber": "N/A",
+    "inches": ""
+  },
+  {
+    "meshNumber": 3,
+    "inches": 0.265,
+    "Microns": 6730,
+    "Millimetres": 6.73
+  },
+  {
+    "meshNumber": 4,
+    "inches": 0.187,
+    "Microns": 4760,
+    "Millimetres": 4.76
+  },
+  {
+    "meshNumber": 5,
+    "inches": 0.157,
+    "Microns": 4000,
+    "Millimetres": 4
+  },
+  {
+    "meshNumber": 6,
+    "inches": 0.132,
+    "Microns": 3360,
+    "Millimetres": 3.36
+  },
+  {
+    "meshNumber": 7,
+    "inches": 0.111,
+    "Microns": 2830,
+    "Millimetres": 2.83
+  },
+  {
+    "meshNumber": 8,
+    "inches": 0.0937,
+    "Microns": 2380,
+    "Millimetres": 2.38
+  },
+  {
+    "meshNumber": 10,
+    "inches": 0.0787,
+    "Microns": 2000,
+    "Millimetres": 2
+  },
+  {
+    "meshNumber": 12,
+    "inches": 0.0661,
+    "Microns": 1680,
+    "Millimetres": 1.68
+  },
+  {
+    "meshNumber": 14,
+    "inches": 0.0555,
+    "Microns": 1410,
+    "Millimetres": 1.41
+  },
+  {
+    "meshNumber": 16,
+    "inches": 0.0469,
+    "Microns": 1190,
+    "Millimetres": 1.19
+  },
+  {
+    "meshNumber": 18,
+    "inches": 0.0394,
+    "Microns": 1000,
+    "Millimetres": 1
+  },
+  {
+    "meshNumber": 20,
+    "inches": 0.0331,
+    "Microns": 841,
+    "Millimetres": 0.841
+  },
+  {
+    "meshNumber": 25,
+    "inches": 0.028,
+    "Microns": 707,
+    "Millimetres": 0.707
+  },
+  {
+    "meshNumber": 30,
+    "inches": 0.0232,
+    "Microns": 595,
+    "Millimetres": 0.595
+  },
+  {
+    "meshNumber": 35,
+    "inches": 0.0197,
+    "Microns": 500,
+    "Millimetres": 0.5
+  },
+  {
+    "meshNumber": 40,
+    "inches": 0.0165,
+    "Microns": 400,
+    "Millimetres": 0.4
+  },
+  {
+    "meshNumber": 45,
+    "inches": 0.0138,
+    "Microns": 354,
+    "Millimetres": 0.354
+  },
+  {
+    "meshNumber": 50,
+    "inches": 0.0117,
+    "Microns": 297,
+    "Millimetres": 0.297
+  },
+  {
+    "meshNumber": 60,
+    "inches": 0.0098,
+    "Microns": 250,
+    "Millimetres": 0.25
+  },
+  {
+    "meshNumber": 70,
+    "inches": 0.0083,
+    "Microns": 210,
+    "Millimetres": 0.21
+  },
+  {
+    "meshNumber": 80,
+    "inches": 0.007,
+    "Microns": 177,
+    "Millimetres": 0.177
+  },
+  {
+    "meshNumber": 100,
+    "inches": 0.0059,
+    "Microns": 149,
+    "Millimetres": 0.149
+  },
+  {
+    "meshNumber": 120,
+    "inches": 0.0049,
+    "Microns": 125,
+    "Millimetres": 0.125
+  },
+  {
+    "meshNumber": 140,
+    "inches": 0.0041,
+    "Microns": 105,
+    "Millimetres": 0.105
+  },
+  {
+    "meshNumber": 170,
+    "inches": 0.0035,
+    "Microns": 88,
+    "Millimetres": 0.088
+  },
+  {
+    "meshNumber": 200,
+    "inches": 0.0029,
+    "Microns": 74,
+    "Millimetres": 0.074
+  },
+  {
+    "meshNumber": 230,
+    "inches": 0.0024,
+    "Microns": 63,
+    "Millimetres": 0.063
+  },
+  {
+    "meshNumber": 270,
+    "inches": 0.0021,
+    "Microns": 53,
+    "Millimetres": 0.053
+  },
+  {
+    "meshNumber": 325,
+    "inches": 0.0017,
+    "Microns": 44,
+    "Millimetres": 0.044
+  },
+  {
+    "meshNumber": 400,
+    "inches": 0.0015,
+    "Microns": 37,
+    "Millimetres": 0.037
+  }
+]
